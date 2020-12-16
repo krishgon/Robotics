@@ -1,0 +1,14 @@
+Arduino UNO-
+	procecssor- ATMEGA328P
+	14 digital pins
+	6 analog pins
+	3 ground pins
+	2 power output pins
+	1 power input pins
+	
+	Crystal oscillator- executes the for loop inside the code
+	
+	SMD- surface mounting device(to waterproof micro-processor in arduino)
+	
+	
+	
